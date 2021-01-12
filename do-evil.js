@@ -1,4 +1,6 @@
-console.log('Doing evil');
-console.log('Here is your document object');
+'';
+var msgbox;
+alert('Doing evil');
+alert('Here is your document object');
 
-console.log(document);
+alert(document);
